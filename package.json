@@ -1,0 +1,19 @@
+{
+  "name": "sanket",
+  "version": "1.0.0",
+  "description": "its an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanket",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lower-case": "^2.0.2",
+    "upper-case": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
